@@ -1,10 +1,10 @@
-package br.edu.iesp.address;
+package br.edu.iesp.configServer;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AddressApplicationTests {
+class ConfigServerApplicationTests {
 
 	@Test
 	void contextLoads() {
